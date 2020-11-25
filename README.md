@@ -1,5 +1,7 @@
 <h1>Name : Food Order App</h1>
 
+This is Kong Yu's App.
+
 <hr/>
 <h3>Project Features</h3>
 <ol>
